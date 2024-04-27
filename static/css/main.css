@@ -1,0 +1,35 @@
+body {
+    background-color: slateblue;
+    text-align: center;
+}
+ p {
+    color: black;
+    font-style: italic;
+    font-size: 1.8em;
+    display: inline-block;
+    margin: 20px;
+ }
+ img {
+    margin: 60px 0 30px;
+    width: 250px;
+
+ }
+ input {
+    width: 300px;
+    height: 50px;
+    margin: 20px;
+    border: none;
+    border-radius: 10px;
+    font: small-caps;
+    text-align: center;
+    font-size: 1.3em;
+ }
+ #greet {
+    background-color: powderblue;
+    color: black;
+    width: 200px;
+ }
+ #greet:hover {
+    background-color: magenta;
+    cursor: pointer;
+ }
